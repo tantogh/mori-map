@@ -99,14 +99,14 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777px;font-family:'Bitstream Vera Serif';-inkscape-font-specification:'Bitstream Vera Serif';writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
        x="-16.396242"
-       y="159.41183"
+       y="160.47015"
        id="text15"
        transform="rotate(-90)"><tspan
          sodipodi:role="line"
          id="tspan15"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Bitstream Vera Serif';-inkscape-font-specification:'Bitstream Vera Serif';stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
          x="-16.396242"
-         y="159.41183">→</tspan></text>
+         y="160.47015">→</tspan></text>
     <g
        id="g21"
        transform="rotate(-90,105.17692,105.70034)" />
@@ -250,14 +250,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'Bitstream Vera Serif';-inkscape-font-specification:'Bitstream Vera Serif';writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke-width:0.264583"
-       x="155.88144"
-       y="25.758013"
+       x="153.71536"
+       y="26.107262"
        id="text14"><tspan
          sodipodi:role="line"
          id="tspan14"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'Bitstream Vera Serif';-inkscape-font-specification:'Bitstream Vera Serif';fill:#1a1a1a;stroke-width:0.264583"
-         x="155.88144"
-         y="25.758013">金沢大学</tspan></text>
+         x="153.71536"
+         y="26.107262">金沢大学</tspan></text>
     <g
        id="g3"
        transform="translate(0,0.52916663)">
@@ -305,7 +305,7 @@
        transform="matrix(0.04899067,-0.14479651,0.13502195,0.04570148,109.21923,106.09272)" />
     <g
        id="g6-9"
-       transform="matrix(0,-0.71046329,0.6183134,0,68.328172,73.183102)">
+       transform="matrix(0,-0.71046329,0.6183134,0,68.857339,73.183102)">
       <ellipse
          style="fill:none;stroke:#000000;stroke-width:1.51828;stroke-dasharray:none;stroke-opacity:1"
          id="path15-7-3"
