@@ -120,9 +120,9 @@
        transform="rotate(-90)" />
     <g
        id="g13"
-       transform="matrix(0,-0.23280418,0.16260161,0,101.7287,188.59303)"
-       inkscape:transform-center-x="6.7027784"
-       inkscape:transform-center-y="11.227742">
+       transform="matrix(0.23280418,0,0,0.16260161,123.15911,123.2392)"
+       inkscape:transform-center-x="11.22774"
+       inkscape:transform-center-y="-6.7027787">
       <g
          id="g12">
         <rect
@@ -158,7 +158,7 @@
     </g>
     <g
        id="g5"
-       transform="matrix(0.28396366,0,0,0.30213385,181.92778,92.642819)">
+       transform="matrix(0.28396366,0,0,0.30213385,181.92778,93.171986)">
       <path
          sodipodi:type="star"
          style="fill:#0000ff;stroke:#ffffff;stroke-width:3;stroke-dasharray:none;stroke-opacity:1"
@@ -203,7 +203,7 @@
        transform="rotate(-90)" />
     <g
        id="g19"
-       transform="matrix(0.99984851,0,0,1.0432366,-6.1990493,-68.772285)"
+       transform="matrix(0.99984851,0,0,1.0432366,-10.890993,-75.750227)"
        inkscape:transform-center-x="9.383886"
        inkscape:transform-center-y="8.9146917"
        style="fill:#cccccc;stroke:#000000;stroke-width:0.278652;stroke-dasharray:none;stroke-opacity:1">
@@ -378,7 +378,7 @@
     </g>
     <g
        id="g20"
-       transform="translate(-10.256582,-153.56699)">
+       transform="translate(-10.256582,-154.09616)">
       <rect
          style="fill:#f2f2f2;stroke:#000000;stroke-width:0.979682;stroke-dasharray:none;stroke-opacity:1"
          id="rect7-5"
