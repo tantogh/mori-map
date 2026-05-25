@@ -27,7 +27,7 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="0.56390995"
-     inkscape:cx="545.29983"
+     inkscape:cx="544.41316"
      inkscape:cy="398.11321"
      inkscape:window-width="1600"
      inkscape:window-height="842"
@@ -95,18 +95,6 @@
        x="-74.810905"
        y="6.3945227"
        transform="rotate(-90)" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777px;font-family:'Bitstream Vera Serif';-inkscape-font-specification:'Bitstream Vera Serif';writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
-       x="-16.396242"
-       y="160.47015"
-       id="text15"
-       transform="rotate(-90)"><tspan
-         sodipodi:role="line"
-         id="tspan15"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Bitstream Vera Serif';-inkscape-font-specification:'Bitstream Vera Serif';stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
-         x="-16.396242"
-         y="160.47015">→</tspan></text>
     <g
        id="g21"
        transform="rotate(-90,105.17692,105.70034)" />
@@ -242,22 +230,22 @@
        transform="matrix(1.040923,0,0,1,87.358231,-65.617135)"><tspan
          x="79.743515"
          y="175.93491"
-         id="tspan2">イオン
+         id="tspan11">イオン
 </tspan><tspan
          x="79.743515"
          y="189.01082"
-         id="tspan5">もりの里店</tspan></text>
+         id="tspan13">もりの里店</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'Bitstream Vera Serif';-inkscape-font-specification:'Bitstream Vera Serif';writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke-width:0.264583"
-       x="153.71536"
-       y="26.107262"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Bitstream Vera Serif';-inkscape-font-specification:'Bitstream Vera Serif';writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke-width:0.264583"
+       x="154.18457"
+       y="16.254181"
        id="text14"><tspan
          sodipodi:role="line"
          id="tspan14"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'Bitstream Vera Serif';-inkscape-font-specification:'Bitstream Vera Serif';fill:#1a1a1a;stroke-width:0.264583"
-         x="153.71536"
-         y="26.107262">金沢大学</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Bitstream Vera Serif';-inkscape-font-specification:'Bitstream Vera Serif';fill:#1a1a1a;stroke-width:0.264583"
+         x="154.18457"
+         y="16.254181">至金沢大学</tspan></text>
     <g
        id="g3"
        transform="translate(0,0.52916663)">
@@ -500,5 +488,27 @@
          d="m 57.994931,111.347 c 8.158751,-0.25616 8.158751,-0.25616 8.158751,-0.25616 v 0"
          id="path17-9-0-2" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Bitstream Vera Serif';-inkscape-font-specification:'Bitstream Vera Serif';writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke-width:0.3"
+       x="8.1562204"
+       y="150.2621"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Bitstream Vera Serif';-inkscape-font-specification:'Bitstream Vera Serif';fill:#1a1a1a;stroke-width:0.3"
+         x="8.1562204"
+         y="150.2621">至森本</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Bitstream Vera Serif';-inkscape-font-specification:'Bitstream Vera Serif';writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke-width:0.3"
+       x="262.87943"
+       y="150.79126"
+       id="text7"><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Bitstream Vera Serif';-inkscape-font-specification:'Bitstream Vera Serif';stroke-width:0.3"
+         x="262.87943"
+         y="150.79126">至涌波</tspan></text>
   </g>
 </svg>
