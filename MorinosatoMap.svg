@@ -27,20 +27,32 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="0.56390995"
-     inkscape:cx="522.2465"
+     inkscape:cx="524.01984"
      inkscape:cy="376.83322"
      inkscape:window-width="1600"
      inkscape:window-height="842"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer2" />
   <defs
      id="defs1" />
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <g
+       inkscape:groupmode="layer"
+       id="layer2"
+       inkscape:label="Layer 2">
+      <rect
+         style="fill:#d7e3f4;fill-opacity:1;stroke:none;stroke-width:3;stroke-dasharray:none;stroke-opacity:1"
+         id="rect28"
+         width="296.53079"
+         height="209.26067"
+         x="0.46919429"
+         y="0.46919438" />
+    </g>
     <path
        style="fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:3;stroke-dasharray:none;stroke-opacity:1"
        d="M 76.71856,6.5687201 5.8702211,134.18957"
@@ -92,7 +104,7 @@
          x="19.173405"
          y="170.20152">山側環状道路</tspan></text>
     <rect
-       style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:7;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-dasharray:none;stroke-opacity:1"
        id="rect15"
        width="37.535545"
        height="30.966824"
@@ -193,7 +205,7 @@
        id="text11"
        transform="rotate(-90,104.64775,106.22951)" />
     <rect
-       style="fill:#cccccc;stroke:#000000;stroke-width:0.272639;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#cccccc;stroke:#000000;stroke-width:0.3;stroke-dasharray:none;stroke-opacity:1"
        id="rect4"
        width="77.270271"
        height="63.362476"
@@ -226,7 +238,7 @@
          x="174.82179"
          y="16.254181">至金沢大学</tspan></text>
     <rect
-       style="fill:#cccccc;fill-opacity:1;stroke-width:0.463268"
+       style="fill:#cccccc;fill-opacity:1;stroke-width:0.5;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect10"
        width="38.69186"
        height="42.901226"
@@ -443,7 +455,7 @@
        inkscape:transform-center-y="-0.8294597"
        transform="matrix(0.04899067,-0.14479651,0.13502195,0.04570148,126.11022,106.61128)" />
     <rect
-       style="fill:#cccccc;fill-opacity:1;stroke-width:0.353448"
+       style="fill:#cccccc;fill-opacity:1;stroke-width:0.3;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
        id="rect8"
        width="57.607368"
        height="32.229462"
