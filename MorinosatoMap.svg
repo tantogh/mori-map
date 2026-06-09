@@ -73,8 +73,8 @@
        id="rect3"
        width="150.14218"
        height="13.606634"
-       x="-156.45073"
-       y="138.35806"
+       x="-155.51234"
+       y="160.4102"
        transform="rotate(-90)" />
     <text
        xml:space="preserve"
@@ -92,30 +92,30 @@
        id="rect15"
        width="37.535545"
        height="30.966824"
-       x="155.30331"
-       y="29.55924" />
+       x="176.88625"
+       y="28.320988" />
     <rect
        style="fill:#999999;stroke-width:0.294424"
        id="rect13"
        width="9.853075"
        height="285.27017"
-       x="-74.810905"
+       x="-71.635902"
        y="6.3945227"
        transform="rotate(-90)" />
     <g
        id="g21"
        transform="rotate(-90,105.17692,105.70034)" />
     <rect
-       style="fill:#cccccc;stroke:#000000;stroke-width:0.29272;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#cccccc;stroke:#000000;stroke-width:0.251471;stroke-dasharray:none;stroke-opacity:1"
        id="rect6"
-       width="56.310596"
-       height="55.606812"
-       x="-63.084698"
-       y="80.818169"
+       width="48.375542"
+       height="47.770931"
+       x="-58.342819"
+       y="109.78842"
        transform="rotate(-90)" />
     <g
        id="g13"
-       transform="matrix(0.23280418,0,0,0.16260161,123.15911,123.2392)"
+       transform="matrix(0.23280418,0,0,0.16260161,144.03295,121.83162)"
        inkscape:transform-center-x="11.22774"
        inkscape:transform-center-y="-6.7027787">
       <g
@@ -188,121 +188,69 @@
        y="208.32228"
        id="text11"
        transform="rotate(-90,104.64775,106.22951)" />
-    <rect
-       style="fill:#cccccc;stroke:#000000;stroke-width:0.306393;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4"
-       width="74.890549"
-       height="82.565689"
-       x="-152.63655"
-       y="153.83656"
-       transform="rotate(-90)" />
     <g
-       id="g19"
-       transform="matrix(0.99984851,0,0,1.0432366,-10.890993,-75.750227)"
-       inkscape:transform-center-x="9.383886"
-       inkscape:transform-center-y="8.9146917"
-       style="fill:#cccccc;stroke:#000000;stroke-width:0.278652;stroke-dasharray:none;stroke-opacity:1">
+       id="g17"
+       transform="matrix(0.99994255,0,0,1.031262,23.470925,-5.2432893)">
       <rect
-         style="fill:#f2f2f2;stroke:#000000;stroke-width:0.979682;stroke-dasharray:none;stroke-opacity:1"
-         id="rect7"
-         width="30.809275"
-         height="21.425388"
-         x="156.78966"
-         y="203.70911"
-         ry="0"
-         rx="0" />
+         style="fill:#cccccc;stroke:#000000;stroke-width:0.306393;stroke-dasharray:none;stroke-opacity:1"
+         id="rect4"
+         width="74.890549"
+         height="82.565689"
+         x="-152.63655"
+         y="153.83656"
+         transform="rotate(-90)" />
       <text
          xml:space="preserve"
-         style="font-size:6.35px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
-         x="172.29912"
-         y="212.48506"
-         id="text16"><tspan
-           sodipodi:role="line"
-           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
-           x="172.29912"
-           y="212.48506"
-           id="tspan18">もりの里</tspan><tspan
-           sodipodi:role="line"
-           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
-           x="172.29912"
-           y="221.06285"
-           id="tspan19">1丁目</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.68166px;font-family:'Bitstream Vera Serif';-inkscape-font-specification:'Bitstream Vera Serif';writing-mode:lr-tb;direction:ltr;white-space:pre;inline-size:63.1743;display:inline;fill:#1a1a1a;stroke-width:0.264583"
+         x="79.743515"
+         y="175.93491"
+         id="text4"
+         transform="matrix(1.040923,0,0,1,87.358231,-65.617135)"><tspan
+           x="79.743515"
+           y="175.93491"
+           id="tspan2">イオン
+</tspan><tspan
+           x="79.743515"
+           y="189.20105"
+           id="tspan5">もりの里店</tspan></text>
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.68166px;font-family:'Bitstream Vera Serif';-inkscape-font-specification:'Bitstream Vera Serif';writing-mode:lr-tb;direction:ltr;white-space:pre;inline-size:63.1743;display:inline;fill:#1a1a1a;stroke-width:0.264583"
-       x="79.743515"
-       y="175.93491"
-       id="text4"
-       transform="matrix(1.040923,0,0,1,87.358231,-65.617135)"><tspan
-         x="79.743515"
-         y="175.93491"
-         id="tspan2">イオン
-</tspan><tspan
-         x="79.743515"
-         y="189.20105"
-         id="tspan5">もりの里店</tspan></text>
-    <text
-       xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Bitstream Vera Serif';-inkscape-font-specification:'Bitstream Vera Serif';writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke-width:0.264583"
-       x="154.18457"
+       x="174.82179"
        y="16.254181"
        id="text14"><tspan
          sodipodi:role="line"
          id="tspan14"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Bitstream Vera Serif';-inkscape-font-specification:'Bitstream Vera Serif';fill:#1a1a1a;stroke-width:0.264583"
-         x="154.18457"
+         x="174.82179"
          y="16.254181">至金沢大学</tspan></text>
     <rect
-       style="fill:#cccccc;fill-opacity:1;stroke-width:0.349599"
+       style="fill:#cccccc;fill-opacity:1;stroke-width:0.463268"
        id="rect10"
-       width="24.146835"
-       height="39.147671"
-       x="111.45031"
-       y="77.417046" />
-    <g
-       id="g6-9"
-       transform="matrix(0,-0.71046329,0.6183134,0,68.857339,73.183102)">
-      <ellipse
-         style="fill:none;stroke:#000000;stroke-width:1.51828;stroke-dasharray:none;stroke-opacity:1"
-         id="path15-7-3"
-         cx="61.93364"
-         cy="95.86927"
-         rx="4.6547213"
-         ry="5.3750739" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:1.51828;stroke-dasharray:none;stroke-opacity:1"
-         d="m 61.933639,101.4951 c 0.151834,9.6694 0.151834,9.6694 0.151834,9.6694"
-         id="path16-5-6" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:1.51828;stroke-dasharray:none;stroke-opacity:1"
-         d="m 57.994931,111.347 c 8.158751,-0.25616 8.158751,-0.25616 8.158751,-0.25616 v 0"
-         id="path17-9-0" />
-    </g>
+       width="38.69186"
+       height="42.901226"
+       x="117.08065"
+       y="74.132683" />
     <text
        xml:space="preserve"
-       style="font-size:9.87777px;font-family:'Noto Serif CJK JP';-inkscape-font-specification:'Noto Serif CJK JP';writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke-width:0.264583;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
-       x="87.113144"
-       y="32.947636"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777px;font-family:'Noto Serif CJK JP';-inkscape-font-specification:'Noto Serif CJK JP';writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke-width:0.264583"
+       x="113.97717"
+       y="33.984795"
        id="text6"><tspan
          sodipodi:role="line"
          id="tspan6"
-         style="stroke-width:0.264583;-inkscape-font-specification:'Noto Serif CJK JP';font-family:'Noto Serif CJK JP';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
-         x="87.113144"
-         y="32.947636">V drug</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Serif CJK JP';-inkscape-font-specification:'Noto Serif CJK JP';stroke-width:0.264583"
+         x="113.97717"
+         y="33.984795">V drug</tspan><tspan
          sodipodi:role="line"
-         style="stroke-width:0.264583;-inkscape-font-specification:'Noto Serif CJK JP';font-family:'Noto Serif CJK JP';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
-         x="87.113144"
-         y="46.290855"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Serif CJK JP';-inkscape-font-specification:'Noto Serif CJK JP';stroke-width:0.264583"
+         x="113.97717"
+         y="46.332008"
          id="tspan9">杜の里店</tspan></text>
-    <path
-       style="fill:none;fill-opacity:1;stroke:#999999;stroke-width:7;stroke-dasharray:none;stroke-opacity:1"
-       d="m 103.18834,73.592833 -0.32942,33.621267 -8.894388,8.1898 H 7.3266212"
-       id="path13"
-       sodipodi:nodetypes="cccc" />
     <g
        id="g13-1"
-       transform="matrix(0.23280418,0,0,0.16260161,122.13434,27.022595)"
+       transform="matrix(0.23280418,0,0,0.16260161,144.1265,23.847593)"
        inkscape:transform-center-x="11.22774"
        inkscape:transform-center-y="-6.7027761">
       <g
@@ -339,111 +287,143 @@
          ry="19.50791" />
     </g>
     <g
-       id="g20"
-       transform="translate(-10.256582,-154.09616)">
+       id="g26">
       <rect
          style="fill:#f2f2f2;stroke:#000000;stroke-width:0.979682;stroke-dasharray:none;stroke-opacity:1"
          id="rect7-5"
          width="30.809275"
          height="21.425388"
-         x="155.43689"
-         y="196.9059"
+         x="170.21693"
+         y="40.992939"
          ry="0"
          rx="0" />
       <text
          xml:space="preserve"
          style="font-size:6.35px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
-         x="170.94635"
-         y="205.68185"
+         x="185.19724"
+         y="49.768894"
          id="text16-6"><tspan
            sodipodi:role="line"
            style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
-           x="170.94635"
-           y="205.68185"
+           x="185.19724"
+           y="49.768894"
            id="tspan18-2">もりの里</tspan><tspan
            sodipodi:role="line"
            style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
-           x="170.94635"
-           y="214.25964"
+           x="185.19724"
+           y="58.346687"
            id="tspan19-9">1丁目東</tspan></text>
     </g>
     <g
-       id="g3"
-       transform="translate(1.4075875,-30.906852)">
-      <rect
-         style="fill:#ffaaaa;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
-         id="rect5"
-         width="74.482468"
-         height="32.347622"
-         x="41.95956"
-         y="83.244247" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.2889px;font-family:'Bitstream Vera Serif';-inkscape-font-specification:'Bitstream Vera Serif Bold';writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:none;stroke-width:0.264583;stroke-opacity:1"
-         x="43.489979"
-         y="96.416161"
-         id="text5"><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.2889px;font-family:'Bitstream Vera Serif';-inkscape-font-specification:'Bitstream Vera Serif Bold';fill:#1a1a1a;stroke:none;stroke-width:0.264583;stroke-opacity:1"
-           x="43.489979"
-           y="96.416161"
-           id="tspan7">ふれあい工房</tspan><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.2889px;font-family:'Bitstream Vera Serif';-inkscape-font-specification:'Bitstream Vera Serif Bold';fill:#1a1a1a;stroke:none;stroke-width:0.264583;stroke-opacity:1"
-           x="43.489979"
-           y="111.8846"
-           id="tspan8">たんと杜の里</tspan></text>
+       id="g18"
+       transform="translate(21.533552,-2.5258887)">
+      <g
+         id="g6-9"
+         transform="matrix(0,-0.71046329,0.6183134,0,68.857339,73.183102)">
+        <ellipse
+           style="fill:none;stroke:#000000;stroke-width:1.51828;stroke-dasharray:none;stroke-opacity:1"
+           id="path15-7-3"
+           cx="61.93364"
+           cy="95.86927"
+           rx="4.6547213"
+           ry="5.3750739" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.51828;stroke-dasharray:none;stroke-opacity:1"
+           d="m 61.933639,101.4951 c 0.151834,9.6694 0.151834,9.6694 0.151834,9.6694"
+           id="path16-5-6" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.51828;stroke-dasharray:none;stroke-opacity:1"
+           d="m 57.994931,111.347 c 8.158751,-0.25616 8.158751,-0.25616 8.158751,-0.25616 v 0"
+           id="path17-9-0" />
+      </g>
+      <g
+         id="g24"
+         transform="translate(-52.549316,-169.63932)">
+        <rect
+           style="fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.623773;stroke-dasharray:none;stroke-opacity:1"
+           id="rect22-7"
+           width="19.613194"
+           height="12.106085"
+           x="167.78345"
+           y="181.39009" />
+        <text
+           xml:space="preserve"
+           style="font-size:6.35px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';writing-mode:lr-tb;direction:ltr;fill:#040000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+           x="171.25592"
+           y="189.96373"
+           id="text22-9"><tspan
+             sodipodi:role="line"
+             id="tspan22-2"
+             style="fill:#040000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+             x="171.25592"
+             y="189.96373">若松</tspan></text>
+      </g>
     </g>
     <g
-       id="g24"
-       transform="translate(-52.549316,-169.63932)">
+       id="g27">
       <rect
-         style="fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.623773;stroke-dasharray:none;stroke-opacity:1"
-         id="rect22-7"
-         width="19.613194"
-         height="12.106085"
-         x="167.78345"
-         y="181.39009" />
+         style="fill:#f2f2f2;stroke:#000000;stroke-width:1.00056;stroke-dasharray:none;stroke-opacity:1"
+         id="rect7"
+         width="30.804607"
+         height="22.351749"
+         x="170.73163"
+         y="135.82819"
+         ry="0"
+         rx="0" />
       <text
          xml:space="preserve"
-         style="font-size:6.35px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';writing-mode:lr-tb;direction:ltr;fill:#040000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
-         x="171.25592"
-         y="189.96373"
-         id="text22-9"><tspan
+         style="font-size:6.48533px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+         x="189.69618"
+         y="141.93663"
+         id="text16"
+         transform="scale(0.97898424,1.0214669)"><tspan
            sodipodi:role="line"
-           id="tspan22-2"
-           style="fill:#040000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
-           x="171.25592"
-           y="189.96373">若松</tspan></text>
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+           x="189.69618"
+           y="141.93663"
+           id="tspan18">もりの里</tspan><tspan
+           sodipodi:role="line"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+           x="189.69618"
+           y="150.69724"
+           id="tspan19">1丁目</tspan></text>
     </g>
-    <path
-       sodipodi:type="star"
-       style="fill:#0000ff;stroke:#ffffff;stroke-width:3;stroke-dasharray:none;stroke-opacity:1"
-       id="path2-9"
-       inkscape:flatsided="true"
-       sodipodi:sides="6"
-       sodipodi:cx="239.75829"
-       sodipodi:cy="240.69669"
-       sodipodi:r1="25.805687"
-       sodipodi:r2="22.348381"
-       sodipodi:arg1="0"
-       sodipodi:arg2="0.52359878"
-       inkscape:rounded="0"
-       inkscape:randomized="0"
-       d="m 265.56397,240.69669 -12.90284,22.34838 h -25.80569 l -12.90284,-22.34838 12.90284,-22.34838 h 25.80569 z"
-       transform="matrix(0.25869933,0,0,0.26248643,83.130858,54.066247)" />
-    <text
-       xml:space="preserve"
-       style="font-size:7.81396px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';writing-mode:lr-tb;direction:ltr;fill:#f9f9f9;stroke:#ffffff;stroke-width:0.208469;stroke-dasharray:none;stroke-opacity:1"
-       x="142.42455"
-       y="118.68877"
-       id="text2-2"
-       transform="scale(0.99275991,1.0072929)"><tspan
-         sodipodi:role="line"
-         style="font-size:7.81396px;stroke-width:0.208469;stroke-dasharray:none"
-         x="142.42455"
-         y="118.68877"
-         id="tspan3-2">27</tspan></text>
+    <g
+       id="g25"
+       transform="translate(0.52916667)">
+      <g
+         id="g22"
+         transform="translate(21.113743,2.3459715)">
+        <path
+           sodipodi:type="star"
+           style="fill:#0000ff;stroke:#ffffff;stroke-width:3;stroke-dasharray:none;stroke-opacity:1"
+           id="path2-9"
+           inkscape:flatsided="true"
+           sodipodi:sides="6"
+           sodipodi:cx="239.75829"
+           sodipodi:cy="240.69669"
+           sodipodi:r1="25.805687"
+           sodipodi:r2="22.348381"
+           sodipodi:arg1="0"
+           sodipodi:arg2="0.52359878"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m 265.56397,240.69669 -12.90284,22.34838 h -25.80569 l -12.90284,-22.34838 12.90284,-22.34838 h 25.80569 z"
+           transform="matrix(0.25869933,0,0,0.26248643,83.130858,54.066247)" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:7.81396px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';writing-mode:lr-tb;direction:ltr;fill:#f9f9f9;stroke:#ffffff;stroke-width:0.208469;stroke-dasharray:none;stroke-opacity:1"
+         x="164.16489"
+         y="121.48355"
+         id="text2-2"
+         transform="scale(0.99275991,1.0072929)"><tspan
+           sodipodi:role="line"
+           style="font-size:7.81396px;stroke-width:0.208469;stroke-dasharray:none"
+           x="164.16489"
+           y="121.48355"
+           id="tspan3-2">27</tspan></text>
+    </g>
     <path
        sodipodi:type="star"
        style="fill:#ff0000;stroke:#000000;stroke-width:0.1"
@@ -461,16 +441,17 @@
        d="m 205.53711,140.26708 -46.55642,-29.82191 -44.32007,32.0178 13.9756,-53.493269 L 84.489832,56.712859 139.68365,53.47411 156.71974,1.5204894 176.8558,53.012099 231.53108,53.159837 188.78203,88.22215 Z"
        inkscape:transform-center-x="-0.59149535"
        inkscape:transform-center-y="-0.8294597"
-       transform="matrix(0.04899067,-0.14479651,0.13502195,0.04570148,106.40406,109.84628)" />
+       transform="matrix(0.04899067,-0.14479651,0.13502195,0.04570148,126.11022,106.61128)" />
     <rect
-       style="fill:#cccccc;fill-opacity:1;stroke-width:0.289453"
+       style="fill:#cccccc;fill-opacity:1;stroke-width:0.353448"
        id="rect8"
-       width="41.668018"
-       height="29.88349"
-       x="95.107407"
-       y="123.07384" />
+       width="57.607368"
+       height="32.229462"
+       x="100.2818"
+       y="120.72787" />
     <g
-       id="g8">
+       id="g8"
+       transform="translate(15.483412)">
       <g
          id="g23"
          transform="translate(-72.719356,-58.205663)">
@@ -513,6 +494,13 @@
            id="path17-9-0-2" />
       </g>
     </g>
+    <rect
+       style="fill:#999999;fill-opacity:1;stroke:none;stroke-width:7;stroke-dasharray:none;stroke-opacity:1"
+       id="rect16"
+       width="6.5687237"
+       height="62.872028"
+       x="98.880051"
+       y="4.3426924" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Bitstream Vera Serif';-inkscape-font-specification:'Bitstream Vera Serif';writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke-width:0.3"
@@ -547,10 +535,46 @@
        style="fill:#999999;fill-opacity:1;stroke:none;stroke-width:20;stroke-dasharray:none;stroke-opacity:1"
        d="M 43.13016,23.223932 23.555703,51.424421"
        id="path10" />
-    <path
-       style="fill:none;fill-opacity:1;stroke:#999999;stroke-width:9.00308;stroke-dasharray:none;stroke-opacity:1"
-       d="M 101.41263,93.367683 H 40.01134 v 63.747257"
-       id="path15"
-       sodipodi:nodetypes="ccc" />
+    <g
+       id="g16"
+       transform="translate(-1.4075829,0.4691943)">
+      <path
+         style="fill:none;fill-opacity:1;stroke:#999999;stroke-width:7;stroke-dasharray:none;stroke-opacity:1"
+         d="m 103.18834,73.592833 -0.32942,33.621267 -8.894388,8.1898 H 7.3266212"
+         id="path13"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#999999;stroke-width:9.00308;stroke-dasharray:none;stroke-opacity:1"
+         d="M 101.41263,93.367683 H 40.01134 v 63.747257"
+         id="path15"
+         sodipodi:nodetypes="ccc" />
+    </g>
+    <g
+       id="g3"
+       transform="translate(17.420166,-26.874607)">
+      <rect
+         style="fill:#ffaaaa;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+         id="rect5"
+         width="74.482468"
+         height="32.347622"
+         x="41.95956"
+         y="83.244247" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.2889px;font-family:'Bitstream Vera Serif';-inkscape-font-specification:'Bitstream Vera Serif Bold';writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+         x="43.489979"
+         y="96.416161"
+         id="text5"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.2889px;font-family:'Bitstream Vera Serif';-inkscape-font-specification:'Bitstream Vera Serif Bold';fill:#1a1a1a;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+           x="43.489979"
+           y="96.416161"
+           id="tspan7">ふれあい工房</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.2889px;font-family:'Bitstream Vera Serif';-inkscape-font-specification:'Bitstream Vera Serif Bold';fill:#1a1a1a;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+           x="43.489979"
+           y="111.8846"
+           id="tspan8">たんと杜の里</tspan></text>
+    </g>
   </g>
 </svg>
